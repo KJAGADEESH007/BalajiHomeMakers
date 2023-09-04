@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#005ebd</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="purple_700">#303F9F</color>
+    <color name="colorAccent">#030303</color>
+    <color name="cardColor">#ffffff</color>
+    <color name="textcardColor">#3f3f3f</color>
+    <color name="textOnP">#ffebee</color>
+    <color name="textOnS">#0091ee</color>
+    <!--faa21c-->
+    <color name="tertiary_text_light">#F5F5F5</color>
+    <color name="fontPrimary">#004a6b</color>
+    <color name="transparent">#00004a6b</color>
+    <color name="hyperLink">#012ff9</color>
+    <color name="payBtn">#1a73e8</color>
+    <color name="green">#66aa18</color>
+    <color name="yellow">#ffc632</color>
+
+    <color name="textHeading">#000000</color>
+
+    <color name="backgroundColour">#ffffff</color>
+    <color name="drawerIndicatorColour">#ffffff</color>
+    <color name="primaryTextColour">#000000</color>
+    <color name="hintDark">#5b5b5b</color>
+    <color name="seperator">#afafaf</color>
+    <color name="lightGrey">#c6d6d3d3</color>
+
+
+    <color name="red">#ed5c5c</color>
+    <color name="redDanger">#FA0000</color>
+    <color name="primaryTextColourLight">#004a6b</color>
+
+    <color name="themeCyan">#8200dcbb</color>
+    <color name="themeGreen">#13e2da</color>
+
+    <color name="roboto_calendar_background">#FFFFFF</color>
+    <color name="roboto_calendar_day_of_the_week_font">#161d20</color>
+    <color name="roboto_calendar_selected_day_font">#FFFFFF</color>
+    <color name="roboto_calendar_current_day_ring">#00a3d3</color>
+    <color name="roboto_calendar_day_of_the_month_font">#000000</color>
+    <color name="roboto_calendar_circle_1">#008000</color>  <!-- Small Circle -->
+    <color name="roboto_calendar_circle_2">#8B0000</color>  <!-- Small Circle -->
+    <color name="roboto_calendar_circle_3">#FFFF00</color>  <!-- Small Circle -->
+    <color name="roboto_calendar_circle_4">#ff9500</color>  <!-- Small Circle -->
+    <color name="roboto_calendar_circle_5">#969595</color>  <!-- Small Circle -->
+    <color name="roboto_calendar_month_arrow">#55c6da</color>
+    <!--transparent dialog background color-->
+    <color name="df_transparent_black_background">#80000000</color>
+    <color name="blackTextColor">#000</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="whiteCardColor">#fff</color>
+</resources>

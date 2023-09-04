@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650784561092",
+    "project_id": "bhalajihomemakers",
+    "storage_bucket": "bhalajihomemakers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650784561092:android:458071adefa466eaf57691",
+        "android_client_info": {
+          "package_name": "com.bca.balajihomcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650784561092-9aj10ecdkq6ug8s1qj7d3frunp9ni3hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgT2CV0bJ1FiXLuVyJ9z9PenR_PHF6swE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650784561092-9aj10ecdkq6ug8s1qj7d3frunp9ni3hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

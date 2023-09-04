@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.bca.balajihomcare.UserDashboardFragment"
+        android:label="@string/home"
+        tools:layout="@layout/dashboard_fragment" />
+
+
+    <fragment
+        android:id="@+id/nav_cart"
+        android:name="com.bca.balajihomcare.MyCartFragment"
+        android:label="@string/my_cart"
+        tools:layout="@layout/my_cart_fragment" />
+    <fragment
+        android:id="@+id/nav_orders"
+        android:name="com.bca.balajihomcare.MyOrdersFragment"
+        android:label="@string/my_orders"
+        tools:layout="@layout/my_orders_fragment" />
+
+
+</navigation>
